@@ -1,2 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/fnZ3vxy8)
-1. 프로젝트 소개
+## 1. 프로젝트 소개
+이 프로젝트는 졸업과제를 수행하는 학생들에게 README 작성의 가이드라인을 제공하기 위해 제작되었습니다.
