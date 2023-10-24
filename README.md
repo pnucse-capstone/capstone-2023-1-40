@@ -1,12 +1,12 @@
 ### 1. 프로젝트 소개  
   
-    #### LLM이란? 
+  #### LLM이란? 
   
      • LLM(Large Language Model)은 대규모 텍스트 데이터를 학습한 인공지능 모델  
    
      • 흔히, 우리에게 익숙한 생성형 AI인 GPT (Generative Pre-trained Transform) 역시 LLM 모델의 일종  
   
-    #### 개발 목적 
+  #### 개발 목적 
   
      • 인구의 고령화 추세와 함께, 의료분야는 인력 부족과 치료비용 상승의 문제에 직면함  
    
