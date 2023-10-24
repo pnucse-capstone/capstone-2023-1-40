@@ -16,8 +16,6 @@
 
 ### 3. 구성도
 ![image](https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/fceeafe3-7b5d-486c-90dd-f90292cdd8d3)
-
-
 ### 4. 소개 및 시연 영상
 
 ### 5. 사용법
