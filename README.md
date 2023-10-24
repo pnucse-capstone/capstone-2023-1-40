@@ -2,9 +2,9 @@
 이 프로젝트는 졸업과제를 수행하는 학생들에게 README 작성의 가이드라인을 제공하기 위해 제작되었습니다.
 
 ### 2. 팀 소개
-김대영 eodud3526@pusan.ac.kr, 데이터 수집 및 LLM fine tuning\n
-강주호 \n
-정영진 
+김대영 eodud3526@pusan.ac.kr, 데이터 수집 및 LLM fine tuning  
+강주호  
+정영진   
 
 ### 3. 구성도
 
