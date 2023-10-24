@@ -15,7 +15,8 @@
 정영진, yungzin98@naver.com, 백엔드 개발    
 
 ### 3. 구성도
-![image](https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/b03d3d39-8b70-4623-9c49-e29e1e02ea3b)
+![image](https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/fceeafe3-7b5d-486c-90dd-f90292cdd8d3)
+
 
 ### 4. 소개 및 시연 영상
 
