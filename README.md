@@ -1,13 +1,13 @@
 ### 1. 프로젝트 소개  
   
-  #### LLM이란? 
-  ![image](https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/c62fd95b-2f67-43d4-b3ed-132420743192)
+  #### 1.1 LLM이란? 
+<img width="400" height="300" alt="LLM" src="https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/31ff5b38-1bcf-41df-aa25-fbe8bc5d162d">
 
      • LLM(Large Language Model)은 대규모 텍스트 데이터를 이용해 학습된 초대형 언어 모델  
    
      • 흔히, 우리에게 익숙한 생성형 AI인 GPT (Generative Pre-trained Transform) 역시 LLM 모델의 일종  
   
-  #### 개발 목적 
+  #### 1.2 개발 목적 
   
      • 인구의 고령화 추세와 함께, 의료분야는 인력 부족과 치료비용 상승의 문제에 직면함  
    
