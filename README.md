@@ -25,4 +25,4 @@
 ### 4. 소개 및 시연 영상
 
 ### 5. 사용법
-Python >= 3.10 및 Django가 설치되어 있어야 합니다. [How to install Django] (https://docs.djangoproject.com/en/4.2/topics/install/#how-to-install-django)
+Python >= 3.10 및 Django가 설치되어 있어야 합니다. [How to install Django](https://docs.djangoproject.com/en/4.2/topics/install/#how-to-install-django)
