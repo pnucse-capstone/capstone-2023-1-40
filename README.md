@@ -27,6 +27,7 @@
 ### 5. 사용법
 Python >= 3.10 및 fastapi, uvicorn, pyngrok 패키지와 Django가 설치되어 있어야 합니다. 
 [How to install Django](https://docs.djangoproject.com/en/4.2/topics/install/#how-to-install-django)  
+
 [Installing Packages](https://packaging.python.org/en/latest/tutorials/installing-packages)  
 
 django 폴더는 서버 실행 환경에, run.ipynb 및 requirements.txt는 VRAM 16GB 이상인 GPU가 있는 환경에 다운받습니다.  
