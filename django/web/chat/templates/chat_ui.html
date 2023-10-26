@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Chatbot</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="../static/css/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+  <!-- html -->
+  <section class="msger">
+    <header class="msger-header" style="background-color: #228369;">
+      <div class="msger-header-title">
+        <i class="fa fa-medkit fa-2x"></i> <span>메디봇</span> <i class="fa fa-medkit fa-2x"></i>
+      </div>
+    </header>
+    <main class="msger-chat" style="background-image: url('../static/css/bg_img.png');">
+      <div class="msg left-msg">
+        <div class="msg-img" style="background-image: url('../static/asset/bot.png')"></div>
+        <div class="msg-bubble">
+          <div class="msg-info">
+            <div class="msg-info-name">메디봇</div>
+          </div>
+          <div class="msg-text">
+            안녕하세요! 메디봇입니다. 건강에 대한 궁금한 점이나 도움이 필요한 사항이 있으신가요?😄
+          </div>
+        </div>
+      </div>
+    </main>
+    <form class="msger-inputarea">
+      <input type="text" class="msger-input" id="textInput" placeholder="질문을 입력하세요.">
+      <button type="submit" class="msger-send-btn">📤</button>
+      <button class="delete-btn">🗑️</button>
+    </form>
+  </section>
+
+  <!-- js -->
+  <script src='https://use.fontawesome.com/releases/v5.0.13/js/all.js'></script>
+  <script src="static/js/script.js" defer></script>
+</body>
+</html>
