@@ -23,7 +23,7 @@
 ### 3. 구성도
 <img width="400" height="600" alt="시스템 구성도" src="https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/5813adce-fd8e-4cde-a616-c5f810e98158">
 <img width="400" height="300" alt="크롤링 구성도" src="https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/35338edd-7f2a-40bc-9c66-cd391b8865e7">
-<img width="400" height="300" alt="모델 구성도" src="https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/e99daebf-341d-44b5-b8df-41c0d2eae314">
+<img width="400" height="300" alt="모델 구성도" src="https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/e99daebf-341d-44b5-b8df-41c0d2eae314" align="right">
 
 ### 4. 소개 및 시연 영상
 
