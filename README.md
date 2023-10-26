@@ -41,6 +41,6 @@ chatbot 폴더, run.ipynb 및 requirements.txt는 VRAM 16GB 이상 GPU가 확보
 
 run.ipynb 파일 내 모든 셀을 실행합니다.  
 마지막 셀 결과물로 생성된 "https:// ~ .ngrok.io" url을 django 프로젝트 내 web/chat/views.py의 fastapi_url에 복사해줍니다.  
-이후 web 폴더로 경로 변경 후 python manage.py runserver 커맨드를 실행합니다.  
+이후 web 폴더로 경로 변경 후 python manage.py runserver를 실행합니다.  
 
 http://127.0.0.1:8000 에서 실행된 챗봇을 확인합니다.
