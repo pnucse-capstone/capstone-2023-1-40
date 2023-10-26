@@ -24,18 +24,21 @@
 
 ### 4. 소개 및 시연 영상
 
-### 5. 사용법
+### 5. 사용법  
+
+#### 5.1 환경설정
 Python >= 3.10 및 fastapi, uvicorn, pyngrok 패키지와 Django가 설치되어 있어야 합니다.  
 [How to install Django](https://docs.djangoproject.com/en/4.2/topics/install/#how-to-install-django)  
 [Installing Packages](https://packaging.python.org/en/latest/tutorials/installing-packages)  
 
 django 폴더는 서버 실행 환경에 다운받습니다.  
-run.ipynb 및 requirements.txt는 VRAM 16GB 이상 GPU, 32GB 이상 RAM이 확보된 환경에 다운받습니다.  
-위 경로에 모델 
+chatbot 폴더, run.ipynb 및 requirements.txt는 VRAM 16GB 이상 GPU가 확보된 환경에 다운받습니다.  
+이후 chatbot/checkpoints/lit-llama/7B 경로에 체크포인트를 저장합니다.  
 
 (Colab GPU 기준 V100 이상 필요)  
 
-이후 run.ipynb 파일 내 모든 셀을 실행합니다.  
+#### 5.2 실행  
+run.ipynb 파일 내 모든 셀을 실행합니다.  
 마지막 셀 결과물로 생성된 "https:// ~ .ngrok.io" url을 django 프로젝트 내 web/chat/views.py의 fastapi_url에 복사해줍니다.  
 이후 web 폴더로 경로 변경 후 python manage.py runserver 커맨드를 실행합니다.  
 
