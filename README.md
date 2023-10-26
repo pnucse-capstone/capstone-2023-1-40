@@ -21,7 +21,7 @@
 정영진, yungzin98@naver.com, 백엔드 개발    
 
 ### 3. 구성도
-<img width="400" alt="시스템 구성도" src="https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/5813adce-fd8e-4cde-a616-c5f810e98158">
+<img width="400" height="300" alt="시스템 구성도" src="https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/5813adce-fd8e-4cde-a616-c5f810e98158">
 <img width="400" alt="크롤링 구성도" src="https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/35338edd-7f2a-40bc-9c66-cd391b8865e7">
 
 ### 4. 소개 및 시연 영상
