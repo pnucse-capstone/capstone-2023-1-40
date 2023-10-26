@@ -29,7 +29,10 @@ Python >= 3.10 및 fastapi, uvicorn, pyngrok 패키지와 Django가 설치되어
 [How to install Django](https://docs.djangoproject.com/en/4.2/topics/install/#how-to-install-django)  
 [Installing Packages](https://packaging.python.org/en/latest/tutorials/installing-packages)  
 
-django 폴더는 서버 실행 환경에, run.ipynb 및 requirements.txt는 VRAM 16GB 이상인 GPU가 있는 환경에 다운받습니다.  
+django 폴더는 서버 실행 환경에 다운받습니다.  
+run.ipynb 및 requirements.txt는 VRAM 16GB 이상 GPU, 32GB 이상 RAM이 확보된 환경에 다운받습니다.  
+위 경로에 모델 
+
 (Colab GPU 기준 V100 이상 필요)  
 
 이후 run.ipynb 파일 내 모든 셀을 실행합니다.  
