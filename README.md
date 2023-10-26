@@ -1,7 +1,7 @@
 ### 1. 프로젝트 소개  
   
   #### 1.1 LLM이란? 
-<img width="400" height="300" alt="LLM" src="https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/31ff5b38-1bcf-41df-aa25-fbe8bc5d162d">
+<img width="400" height="300" alt="LLM" src="https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/31ff5b38-1bcf-41df-aa25-fbe8bc5d162d" align="right">
 
      • LLM(Large Language Model)은 대규모 텍스트 데이터를 이용해 학습된 초대형 언어 모델  
    
