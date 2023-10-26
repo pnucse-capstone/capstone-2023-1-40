@@ -26,6 +26,7 @@
 
 ### 5. 사용법
 Python >= 3.10 및 Django가 설치되어 있어야 합니다. [How to install Django](https://docs.djangoproject.com/en/4.2/topics/install/#how-to-install-django)  
+서버 실행 환경에는 Python >= 3.10 및 fastapi, uvicorn, pyngrok 패키지가 설치되어 있어야 합니다.   
 
 이후 run.ipynb 파일 내 모든 셀을 실행합니다. (Colab GPU V100 이상 필요)  
 
