@@ -24,6 +24,7 @@
 <img width="400" height="600" alt="시스템 구성도" src="https://github.com/pnucse-capstone/capstone-2023-1-40/assets/62270210/5813adce-fd8e-4cde-a616-c5f810e98158">
 
 ### 4. 소개 및 시연 영상
+https://www.youtube.com/watch?v=DalusSGwQCI
 
 ### 5. 사용법  
 
