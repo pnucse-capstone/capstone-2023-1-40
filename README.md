@@ -25,7 +25,7 @@
 
 ### 4. 소개 및 시연 영상
 
-https://www.youtube.com/watch?v=DalusSGwQCI/0.jpg
+https://img:youtube.com/watch?v=DalusSGwQCI/0.jpg
 
 ### 5. 사용법  
 
